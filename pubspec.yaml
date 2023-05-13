@@ -1,0 +1,36 @@
+name: flutter_music_app
+description: A new Flutter project.
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=2.19.2 <3.0.0"
+
+dependencies:
+  audioplayers: ^3.0.1
+  dartz: ^0.10.1
+  dio: ^5.1.2
+  flutter:
+    sdk: flutter
+  flutter_dotenv: ^5.0.2
+  get: ^4.6.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/musics/
+    - .env
+
+fonts:
+  - family: Nunito
+    fonts:
+      - asset: assets/fonts/Nunito/Nunito-Regular.ttf
+      - asset: assets/fonts/Nunito/Nunito-Bold.ttf
+        wight: 700
