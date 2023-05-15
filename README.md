@@ -7,9 +7,9 @@
 ## 🚀 Screenshots
 
 <p float="left">
-  <img src="" alt="HomePage" height="500"/>
-  <img src="" alt="MusicDetailsPage" height="506"/>
-  <img src="" alt="MusicPlayerModal" height="506"/>
+  <img src="https://github.com/leandrucarvalho/flutter_music_app/assets/56963289/4ca5cd3f-77f1-4c6e-ac81-f88655f100f5" alt="HomePage" height="500"/>
+  <img src="https://github.com/leandrucarvalho/flutter_music_app/assets/56963289/bf313f24-f2c2-4ac1-ba20-4ef4c59fe276" alt="MusicDetailsPage" height="506"/>
+  <img src="https://github.com/leandrucarvalho/flutter_music_app/assets/56963289/43a9cb62-2139-43fe-9bec-0550bc242231" alt="MusicPlayerModal" height="506"/>
 </p>
 
 ## 🛠️ Installation Steps
@@ -107,7 +107,7 @@ flutter run
             },
             {
                 "img": "./assets/images/ambiente-musica-6.jpg",
-                "title": "Ambient Piano [Prod by BalanceBay",
+                "title": "Ambient Piano Prod by BalanceBay",
                 "path": "musics/ambient-piano-prod-by-balancebay-109400.mp3",
                 "duration": 625
             },
