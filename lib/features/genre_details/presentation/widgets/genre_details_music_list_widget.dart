@@ -75,6 +75,7 @@ class GenreDetailsMusicListWidget extends StatelessWidget {
                                           child: ImgAndTitleRowWidget(
                                             title: music.title,
                                             heroTag: index.toString(),
+                                            img: music.img,
                                             titleColor: _getMusicTitleColor(
                                               music,
                                               musicPlayerController
